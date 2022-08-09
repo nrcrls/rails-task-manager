@@ -2,16 +2,8 @@
 
 one:
   title: MyString
-  string: MyString
-  details: MyString
-  string: MyString
-  completed: MyString
-  boolean: MyString
+  description: MyString
 
 two:
   title: MyString
-  string: MyString
-  details: MyString
-  string: MyString
-  completed: MyString
-  boolean: MyString
+  description: MyString
